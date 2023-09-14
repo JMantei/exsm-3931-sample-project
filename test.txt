@@ -4,4 +4,6 @@ add another line
 
 add a third line, make another change
 
+Branches are cool
+
 Were on the main branch
