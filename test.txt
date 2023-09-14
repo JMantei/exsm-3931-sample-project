@@ -6,5 +6,5 @@ Were on the main branch
 
 We are now moving along with a main commit 
 
-This is something we are adding on the other branch
-This is also something we are adding on the other branch
+This is something we are adding on the other branch!
+This is also something we are adding on the other branch!
